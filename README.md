@@ -1,4 +1,3 @@
-# gqs-algoritmo-01-py
 
 ## O que esse código faz:
 Este código implementa uma função para verificar se um texto é um palíndromo
@@ -6,28 +5,15 @@ Este código implementa uma função para verificar se um texto é um palíndrom
 
 ## Como executar:
 Passo a passo para rodar a versão Java:
- *	1 - Salve o arquivo: Crie um arquivo com o nome exato de `Analisador.java` (a maiúscula importa) e cole o código Java acima dentro dele
- *	2 - Abra o terminal: Navegue até a pasta onde você salvou o arquivo `Analisador.java`
- *	3 - Compile o código (`javac`):Execute o comando abaixo para gerar o arquivo binário `.class`:
+ *	1 - **Salve o arquivo:** Crie um arquivo com o nome exato de `analisar.py`
+ *	2 - **Abra o terminal:** Navegue até a pasta onde salvou o arquivo
+ *	3 - **Execute o comando:** Digite o comando abaixo e aperte Enter:
 
 ~~~
-javac Analisador.java
+python analisar.py
 ~~~
 
-*(Se o terminal não exibir nenhuma mensagem de erro e pular de linha, a compilação foi bem-sucedida)*
-
- *	4 - Execute o programa (`java`): Execute a classe compilada chamando apenas o nome dela (sem a extensão `.java` ou `.class`):
-
-~~~
-java Analisador
-~~~
-
-O resultado impresso no seu terminal será:
-
-~~~
-Teste 1: true
-Teste 2: false
-~~~
+*(Nota: Em alguns sistemas como macOS ou Linux, o comando exato pode ser `python3 analisar.py`)*
 
 ## Exemplo de Saída:
 O console exibirá exatamente o seguinte texto:
