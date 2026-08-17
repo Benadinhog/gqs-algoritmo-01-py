@@ -14,7 +14,8 @@ Passo a passo para rodar a versão Java:
 javac Analisador.java
 ~~~
 
-		*(Se o terminal não exibir nenhuma mensagem de erro e pular de linha, a compilação foi bem-sucedida)*
+*(Se o terminal não exibir nenhuma mensagem de erro e pular de linha, a compilação foi bem-sucedida)*
+
  *	4 - Execute o programa (`java`): Execute a classe compilada chamando apenas o nome dela (sem a extensão `.java` ou `.class`):
 
 ~~~
